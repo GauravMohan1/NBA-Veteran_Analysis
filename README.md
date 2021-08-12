@@ -16,3 +16,10 @@ Win shares is an all encapsulating metric that evaluates the impact of a players
 ### Why Usage?
 Usage represents how much a player is involved in the offensive sets. As a player gets older and turns into a veteran, their role is likely to change causing their usage to lower. We want to factor in usage to make sure the drop in Win Shares isn’t skewed.
 
+## Data
+Source: 
+Kaggle - https://www.kaggle.com/drgilermo/nba-players-stats/version/2?select=Seasons_Stats.csv
+Basketball Reference
+
+
+
