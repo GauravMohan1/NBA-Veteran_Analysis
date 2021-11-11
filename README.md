@@ -33,8 +33,8 @@ Basketball Reference (Roster Continuity, Team Net Rating, etc.)
 There are three main scripts in this project.
 ### 1. Player Metrics Notebook
 This notebook scrapes data from basketball reference and Kaggle and creates a large data set of players. It applies the necessary contraints and data cleaning to make predictions on. 
-### 3. Regression Analysis Notebook
+### 2. Regression Analysis Notebook
 This notebook creates the veteran value metric and applies regression techniques to analyze the distribution of predictions against the features. It also makes educated hypothesis on certain factors that need be explored and makes necessary feature constraints to meet necessary conclusions.
-### 5. ML Modeling Notebook
+### 3. ML Modeling Notebook
 This notebook uses the final data frame to train the model on. It applies cross-validation to evaluate a variety of classification models. It evaluates accuracy of six models, chooses the best performing one, and makes a final prediction on the veteran value class of veterans for the 2021-2022 NBA season.
 
