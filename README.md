@@ -18,7 +18,7 @@ Win shares is an all encapsulating metric that evaluates the impact of a players
 While Win Shares can individually measure players impact on winning, basketball is a team sport. If the team is already good, winning may be easier. If a player improves his win shares while the team gets worse, that can highlight how much that player impacts winning while having bad teammates. It is important to measure team net rating along with win shares.
 
 ### Model Choice Accuracy
-After performing cross-validation with 5 k-folds, we find that RandomForest Classification performs the best. We apply train our data (1997-2019) on this data with a 90/10 split of train/test data. We get an accuracy of 0.67 which is quite good given the amount of data points we have. We predict this model on 2021-2022 data with the same set of features. 
+After performing cross-validation with 5 k-folds, we find that RandomForest Classification performs the best. We apply train our data (1997-2019) on this data with a 90/10 split of train/test data. We get an accuracy of 0.679 which is solid considering we only have 822 data points. This model makes predictions on 2021-2022 data with the same set of features. 
 
 ## Results
 Results shown at the bottom of ml_modeling.ipynb
@@ -29,5 +29,12 @@ Kaggle - https://www.kaggle.com/drgilermo/nba-players-stats/version/2?select=Sea
 Basketball Reference (Roster Continuity, Team Net Rating, etc.)
 
 
-
+## Programs
+There are three main scripts in this project.
+### 1. Player Metrics Notebook
+This notebook scrapes data from basketball reference and Kaggle and creates a large data set of players. It applies the necessary contraints and data cleaning to make predictions on. 
+### 3. Regression Analysis Notebook
+This notebook creates the veteran value metric and applies regression techniques to analyze the distribution of predictions against the features. It also makes educated hypothesis on certain factors that need be explored and makes necessary feature constraints to meet necessary conclusions.
+### 5. ML Modeling Notebook
+This notebook uses the final data frame to train the model on. It applies cross-validation to evaluate a variety of classification models. It evaluates accuracy of six models, chooses the best performing one, and makes a final prediction on the veteran value class of veterans for the 2021-2022 NBA season.
 
