@@ -27,3 +27,13 @@
 (1, [('Nicolas Batum', 1), ('Paul George', 2), ('Marcus Morris', 4), ('Draymond Green', 2), ('Bojan Bogdanoviƒá', 1), ('Mike Conley', 4), ('Joe Ingles', 1), ('Seth Curry', 1), ('Danny Green', 1), ('Jeff Green', 1), ('Mason Plumlee', 3), ('Brook Lopez', 2), ('Kyle Lowry', 4), ('Nikola Vuƒçeviƒá', 4), ('Kemba Walker', 4)])
 (2, [('Jimmy Butler', 1), ('DeMar DeRozan', 1), ('James Harden', 4), ('Jrue Holiday', 2)])
 
+(3, [('Damian Lillard', 0), ('Stephen Curry', 1), ('Kevin Durant', 4), ('LeBron James', 2)])
+(0, [('Carmelo Anthony', 1), ('Robert Covington', 2), ('Will Barton', 4), ('JaMychal Green', 4), ('Paul Millsap', 4), ('Reggie Jackson', 1), ('Kent Bazemore', 4), ('Eric Bledsoe', 3), ('Goran Dragiƒá', 4), ('Andre Iguodala', 4), ('Dwight Howard', 0), ('Rudy Gay', 4), ('Patty Mills', 1), ('DeAndre Jordan', 0), ('Wayne Ellington', 4), ('Danilo Gallinari', 4), ('Justin Holiday', 1), ('Wesley Matthews', 4), ('Markieff Morris', 4), ('Robin Lopez', 0), ('Russell Westbrook', 3), ('Ricky Rubio', 4), ('Garrett Temple', 4), ('Thaddeus Young', 2), ('John Wall', 4)])
+(1, [('Nicolas Batum', 2), ('Paul George', 2), ('Marcus Morris', 1), ('Draymond Green', 2), ('Bojan Bogdanoviƒá', 1), ('Mike Conley', 3), ('Joe Ingles', 1), ('Seth Curry', 1), ('Danny Green', 2), ('Jeff Green', 0), ('Mason Plumlee', 0), ('Brook Lopez', 1), ('Kyle Lowry', 4), ('Nikola Vuƒçeviƒá', 4), ('Kemba Walker', 4)])
+(2, [('Jimmy Butler', 3), ('DeMar DeRozan', 3), ('James Harden', 4), ('Jrue Holiday', 2)])
+
+(3, [('Damian Lillard', 0), ('Stephen Curry', 1), ('Kevin Durant', 4), ('LeBron James', 2)])
+(0, [('Carmelo Anthony', 1), ('Robert Covington', 2), ('Will Barton', 4), ('JaMychal Green', 4), ('Paul Millsap', 4), ('Reggie Jackson', 1), ('Kent Bazemore', 4), ('Eric Bledsoe', 3), ('Goran Dragiƒá', 4), ('Andre Iguodala', 4), ('Dwight Howard', 0), ('Rudy Gay', 4), ('Patty Mills', 1), ('DeAndre Jordan', 0), ('Wayne Ellington', 4), ('Danilo Gallinari', 4), ('Justin Holiday', 1), ('Wesley Matthews', 4), ('Markieff Morris', 4), ('Robin Lopez', 0), ('Russell Westbrook', 3), ('Ricky Rubio', 4), ('Garrett Temple', 4), ('Thaddeus Young', 2), ('John Wall', 4)])
+(1, [('Nicolas Batum', 2), ('Paul George', 2), ('Marcus Morris', 1), ('Draymond Green', 2), ('Bojan Bogdanoviƒá', 1), ('Mike Conley', 3), ('Joe Ingles', 1), ('Seth Curry', 1), ('Danny Green', 2), ('Jeff Green', 0), ('Mason Plumlee', 0), ('Brook Lopez', 1), ('Kyle Lowry', 4), ('Nikola Vuƒçeviƒá', 4), ('Kemba Walker', 4)])
+(2, [('Jimmy Butler', 3), ('DeMar DeRozan', 3), ('James Harden', 4), ('Jrue Holiday', 2)])
+
